@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.transition {
+    transition-property: color, text-decoration;
+    transition-duration: 0.4s;
+    transition-timing-function: ease-out;
+  }
+  
