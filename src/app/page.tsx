@@ -182,7 +182,7 @@ export default function Home() {
         <div className='flex items-center gap-3'>
         <img className='h-16 rounded' src="Sidoka.jpg" />
           <a href='' className='flex flex-col bg-zinc-100 h-0 w-0 mb-10'>
-            <p className='hover:underline hover:text-gray-100 transition ease-out duration-400'>Mi'adama</p>
+            <p className='hover:underline hover:text-gray-100 transition ease-out duration-400'>Miadama</p>
             <span className='text-xs text-zinc-400 hover:underline hover:text-gray-100 transition ease-out duration-400'>Sidoka</span>
           </a>
         </div>
